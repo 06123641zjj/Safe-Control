@@ -1,14 +1,14 @@
 To test the code use ARMSim#
 http://armsim.cs.uvic.ca/
 
-The 8-Segment display and LEDs will show status of the safe:
-? U: indicates safe is unlocked
-? L: indicates safe is locked
-? P: indicates safe is programming a code
-? C: indicates safe is confirming a new code
-? F: indicates safe is forgetting an old code
-? A: indicates a programming request was successful
-? 'E': indicates a programming fault.
+The 8-Segment display and LEDs will show status of the safe:<br>
+ U: indicates safe is unlocked<br>
+ L: indicates safe is locked<br>
+ P: indicates safe is programming a code<br>
+ C: indicates safe is confirming a new code<br>
+ F: indicates safe is forgetting an old code<br>
+ A: indicates a programming request was successful<br>
+ 'E': indicates a programming fault.<br>
 
 The safe starts unlocked, cannot be locked and there are no valid codes. Whenever there are no codes the safe cannot be locked.
 
